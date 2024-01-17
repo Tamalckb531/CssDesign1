@@ -196,6 +196,7 @@ header{
 
 .features-header{
     text-align: center;
+    margin-bottom: 40px;
 }
 
 .features-heading-txt{
@@ -290,6 +291,7 @@ header{
     flex-direction: column;
     gap: 30px;
     color: white;
+    text-align: center;
 }
 
 .cta-section-container > p{
